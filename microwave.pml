@@ -1,7 +1,7 @@
 /* Microwave Model in Promela */
 
 /* DO NOT change variable names or initial values */
-bool close   = false;   /* true if the door is closed */
+bool closed  = false;   /* true if the door is closed */
 bool start   = false;   /* true if the microwave has been started */
 bool cooking = false;   /* true if the microwave is currently cooking */
 
