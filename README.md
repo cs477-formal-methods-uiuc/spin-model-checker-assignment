@@ -1,6 +1,6 @@
 # SPIN Model Checker Assignment
 
-Boilerplate code for an assignment on formal model checking using the [SPIN model checker](https://spinroot.com/spin/whatispin.html).
+Boilerplate code for an assignment on model checking using the [SPIN model checker](https://spinroot.com/spin/whatispin.html).
 
 ## Overview
 
@@ -12,6 +12,10 @@ Your task is to complete [microwave.pml](microwave.pml) by:
 
 ## Resources
 
+**Helpful guide:**
+- [Introduction to SPIN — IISc Lecture Notes](https://www.csa.iisc.ac.in/~deepakd/fmse-2022/Spin/spin-intro.pdf)
+
+**Official references:**
 - [SPIN Official Site](https://spinroot.com/)
 - [SPIN Documentation](https://spinroot.com/spin/Man/index.html)
 - [Promela Language Reference](https://spinroot.com/spin/Man/promela.html)
